@@ -29,7 +29,8 @@ A Ruby on Rails app that sorta kinda mimics both Facebook and Twitter. The full 
 
 ## Live version
 
-[Odin Facebook @ Heroku](https://feisbuk-elshaka.herokuapp.com)
+No longer deployed — the original Heroku app is down and the free tier it used is gone.
+The screenshots at the top of this README show it running locally.
 
 ## Installation and getting started
 
@@ -52,9 +53,9 @@ APP_ID=<YOUR APP ID> APP_SECRET=<YOUR APP SECRET> rails s
 
 👤 **Eleazar Meza**
 
-- Github: [@elshaka](https://github.com/elshaka)
-- Twitter: [@elshaka](https://twitter.com/elshaka)
-- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/elshaka/)
+- Github: [@zarmeza](https://github.com/zarmeza)
+- Twitter: [@zarmeza](https://twitter.com/zarmeza)
+- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/zarmeza/)
 
 👤 **Frederico Miranda**
 
