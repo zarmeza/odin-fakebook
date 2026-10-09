@@ -43,7 +43,7 @@ bundle install
 rails db:setup
 ```
 
-In order for the facebook login integration to work, you'd need to setup the environment variables ADD_ID and APP_SECRET with the valid credentials of a facebook app (You can create one with a facebook developer account). You could then run the server like this:
+In order for the facebook login integration to work, you'd need to setup the environment variables APP_ID and APP_SECRET with the valid credentials of a facebook app (You can create one with a facebook developer account). You could then run the server like this:
 
 ```
 APP_ID=<YOUR APP ID> APP_SECRET=<YOUR APP SECRET> rails s
